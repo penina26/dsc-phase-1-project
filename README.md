@@ -2,7 +2,7 @@
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/penina26/dsc-phase-1-project/6be782cf3f2e2444bd2d1efa79a6263ff90c5782//microsoft.jpg)
+![microsoft](https://github.com/penina26/dsc-phase-1-project/blob/solution/microsoft.jpg)
 
 Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
@@ -43,7 +43,8 @@ This analysis leads to three recommendations Microsoft's new movie studio busine
 3. Some movies rate very high yet they earn low revenue, if better marketing skills are employed they could produce high revenues
 
 ## For More Information
-See full full analysis in <a href "https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb">student.ipynb</a>
+See full full analysis in <a href =  "https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb">student.ipynb</a> or my presentation<a href ="https://github.com/penina26/dsc-phase-1-project/blob/solution/presentation.pdf">here</a>
+
 
 
 

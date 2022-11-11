@@ -1,4 +1,4 @@
-# Microsoft Movie Studio Insights for movie Creation
+# Analytical Insights for Microsoft’s new movie studio
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
@@ -38,12 +38,12 @@ Films with least average ratings(1-4) earn less revenue compared to films with h
 
 This analysis leads to three recommendations Microsoft's new movie studio business
 
-Create more Action, sci-Fi, Commedy, Fantasy and mystery as they produce the highest revenue
-Venture into foreign markets for their films as foreign markets produce more revenue compared to domestic markets
-Some movies rate very high yet they earn low revenue, if better marketing skills are employed they could produce high revenues
+1. Create more Action, sci-Fi, Comedy, Fantasy and mystery as they produce the highest revenue
+2. Venture into foreign markets for their films as foreign markets produce more revenue compared to domestic markets
+3. Some movies rate very high yet they earn low revenue, if better marketing skills are employed they could produce high revenues
 
 ## For More Information
-See full full analysis in [](https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb)
+See full full analysis in ![](https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb)
 
 
 

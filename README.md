@@ -43,7 +43,7 @@ This analysis leads to three recommendations Microsoft's new movie studio busine
 3. Some movies rate very high yet they earn low revenue, if better marketing skills are employed they could produce high revenues
 
 ## For More Information
-See full full analysis in <a href =  "https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb">student.ipynb</a> or my presentation<a href ="https://github.com/penina26/dsc-phase-1-project/blob/solution/presentation.pdf">here</a>
+See full full analysis in <a href =  "https://github.com/penina26/dsc-phase-1-project/blob/solution/student.ipynb">student.ipynb</a> or my presentation <a href ="https://github.com/penina26/dsc-phase-1-project/blob/solution/presentation.pdf">here</a>
 
 
 

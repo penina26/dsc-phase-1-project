@@ -1,10 +1,10 @@
 # Analytical Insights for Microsoft’s new movie studio
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+
 
 ![microsoft](https://github.com/penina26/dsc-phase-1-project/blob/solution/microsoft.jpg)
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+
 
 ## Overview
 
